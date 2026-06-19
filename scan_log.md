@@ -1,157 +1,164 @@
-# Pre-Market Briefing — 2026-06-18
+# Pre-Market Briefing -- 2026-06-19
 
-**Market:** BULL | VIX 16.4 | 10yr 4.49% | DXY 100.3 | Copper: RISING
-**Sector Rotation:** AI_HARDWARE_LEADS; TRAINING_CHIPS -> CUSTOM_SILICON/INFERENCE
-**SOXX:** STRONG_INFLOW (+90% YTD) | **IGV:** OUTFLOW (-2.21% June 16) | **Cross-Strait Risk:** MEDIUM
+**Market:** BULL | VIX 16.4 | 10yr 4.49% | DXY 100.8
+**Rotation:** AI_HARDWARE & ENERGY -> SOFTWARE & CONSUMER
+**Cross-Strait Risk:** MEDIUM
 
 ## Macro Themes
 
-- Fed hawkish pivot: Warsh removed cut bias at June 17 FOMC (12-0 hold at 3.5-3.75%), median dot signals one hike to 3.8%. Rate-hike risk is real — growth multiples face compression.
-- Big Tech AI capex locked at $725B in 2026 (+77% YoY): AMZN $200B, MSFT $190B, META $145B, GOOGL $175-185B. Structurally secured for 2-3 years.
-- US-China chip war escalating: H200 at 50% volume cap/25% tariff; Blackwell/Rubin fully restricted. NVDA China share fell from 90% to ~50%. Chinese chip tariffs start 2027.
-- Iran conflict drives energy prices higher; consumer sentiment at record low. But AI infrastructure capex is demand-inelastic. Nuclear (VST, CEG) benefits from power scarcity premium.
-- DXY at 100.31 (weakening dollar = positive for TSM ADR, ASML, NVDA intl). 10yr at 4.49% = DCF headwind for high-multiple names (PLTR, CRDO, ARM). Warsh hike signal is the macro tail risk.
+- Fed held rates at 3.50-3.75% at June 17 FOMC (Warsh's first meeting); erased 2026 cut dots, now pricing first cut in 2027-28.
+- Iran war and Strait of Hormuz disruptions lifting energy prices and compressing real consumer wages, creating stagflationary headwinds.
+- US-China chip tariff delayed: new stacked tariff on Chinese semiconductors set for June 2027 (18-month delay) signaling tactical de-escalation.
+- Export control loophole closure June 1: DOC guidance prevents advanced AI chips reaching Chinese firms via overseas subsidiaries.
+- S&P 500 Q1 EPS blended growth ~28% YoY — fastest since Q4 2021 — driven by AI infra and energy; but leadership narrow.
 
-## Emerging Tech Intelligence
+## Emerging Tech Themes
 
-- NVIDIA Vera Rubin entered full production June 1, GTC Taipei. 10x agent throughput vs Blackwell. 150 Taiwan supply chain partners. Autumn 2026 shipments. Largest NVDA product cycle ever.
-- HBM4 ALL THREE suppliers certified for Vera Rubin: SK Hynix 60-70%, Samsung 25-30%, Micron remainder. MU sole-source thesis invalidated — STRONG_POSITION but not monopoly.
-- TSMC CoWoS SOLD OUT through 2026. NVDA books 60% of capacity. Scaling to 125K wpm. N2 in volume production. Arizona Phase 2 starts Q3 2026. Advanced packaging = structural bottleneck.
-- Inference now 2/3 of AI compute (vs 1/3 in 2023). XPUs (ASICs) growing 22% vs GPU 19%. AVGO Q3 AI guide $16B (+200% YoY). MRVL +258% YTD. Inference architecture is shifting away from pure GPU.
-- Liquid cooling CPO mandatory for next-gen AI racks. XPO MSA spec publishes June 2026. COHR founding member. ANET XPO ecosystem at 100 partners. CPO is the 2027 networking buildout wave.
+- NVIDIA GB300/Blackwell Ultra shipments projected +129% YoY in 2026; 60K racks; TSMC CoWoS bottleneck now easing to 130K wpm.
+- HBM4 mass production underway at SK Hynix + Samsung (Feb 2026); Micron confirmed Q3 2026 supplier for Vera Rubin; HBM supply fully sold out through 2026.
+- Custom ASIC inflection: Google TPU v7 Ironwood, AWS Trainium3, MSFT Maia 200, Meta MTIA targeting inference (2/3 of AI compute by 2026).
+- Inference workloads surpassed training in revenue; inference chip market $50B+ in 2026; custom XPU shipments +44.6% YoY.
+- Co-packaged optics & liquid cooling: NVIDIA Spectrum-X Photonics (CPO) due H2 2026; Coherent/Marvell key beneficiaries.
+- Nuclear power for data centers: Meta 6.6GW nuclear PPAs with Vistra/Constellation/Oklo; MSFT 1,920MW from Constellation; SMR optionality real.
+- TSMC N2 ramp unprecedented: 5 fab phases within first node year; Arizona Fab2 tool install Q3 2026, mass production 2027.
 
----
+## Top Candidates
 
-## Top 5 Candidates
+### #1 NVDA -- Score 91.2 [HIGH]
+*NVIDIA Corporation | Chips | Pricing: PRICING_LEADER | Smart Money: SMART_MONEY_ACCUMULATING*
 
-### #1 TSM — Score 103.9 [HIGH]
-*Taiwan Semiconductor Manufacturing | Foundry | Pricing: PRICING_LEADER | Smart Money: SMART_MONEY_ACCUMULATING*
+NVDA remains the irreplaceable GPU compute substrate for the AI infrastructure supercycle. The insider selling is systematic (10b5-1) and not a conviction signal. GB300 rack shipments tracking to 60K in 2026, custom ASIC threat is real but medium-term (2027+). At $210, the stock is 11% off its 52-week high with strong options flow. High conviction add on any pullback to $195 zone.
 
-TSM is the most irreplaceable company in AI supply chain. CoWoS sold out through 2026, C.C. Wei confirmed publicly June 4. Director Ursula Burns buying open-market at $322 in March is a signal with teeth — she understands $6.6B CHIPS Act cash flow and Arizona ramp. Forward P/E 24x and PEG 1.4x for THE foundry monopoly is still cheap. Cross-strait MEDIUM risk is the one reason to cap position, not to avoid. July 17 earnings will confirm CoWoS and N2 trajectory — expect positive update.
+**Catalysts:** GB300 ramp; Vera Rubin H2 2026; Stargate buildout; AI inference boom
+**Risks:** Insider selling pressure; export controls; custom ASIC threat; 28x fwd PE
+**Buy Zone:** $195-$210  |  **Target:** $265  |  **Stop:** $185
+**Hold while:** Hold as long as: GB300 shipments tracking >45K racks/yr; TSMC CoWoS not constrained; no major CUDA-alternative ecosystem; data center revenue growth >80% YoY.
+**Exit if:** EXIT if: hyperscaler capex cut >20%; Rubin/GB400 delayed >2 quarters; export controls block >15% TAM; AMD ROCm captures enterprise GPU workloads.
 
-**Catalysts:** CoWoS scarcity; N2 volume ramp; Arizona Phase 2 Q3 2026; CHIPS Act $6.6B; Vera Rubin 150-partner Taiwan supply chain; July 17 earnings
-**Risks:** Cross-strait risk MEDIUM (military exercises normalizing, median-line erased); NVDA customer concentration (60% of CoWoS)
-**Buy Zone:** $305-$330  |  **Target:** $420  |  **Stop:** $265
-**Hold while:** Hold as long as: CoWoS capacity-constrained and sold out; NVDA/AMD design wins at TSMC N2/N3; Arizona on schedule; cross-strait risk stays MEDIUM or below
-**Exit if:** EXIT if: Cross-strait risk escalates to HIGH (blockade) OR Samsung qualifies for leading-edge HPC foundry at NVDA scale OR CoWoS demand falls below capacity for 2+ quarters
-
-### #2 AMAT — Score 96.5 [HIGH]
-*Applied Materials Inc. | Chips | Pricing: STRONG_POSITION | Smart Money: SMART_MONEY_ACCUMULATING*
-
-Coatue adding AMAT at +79% in one quarter is the clearest smart money rotation signal in this scan. The logic: every TSMC fab expansion, every CoWoS line, every HBM4 production ramp requires AMAT equipment first. At forward P/E 22x and PEG 1.3x, AMAT is the best risk-adjusted equipment name. HIGH conviction.
-
-**Catalysts:** Q2 beat; Coatue +79% Q1 2026; TSMC N2/CoWoS equipment demand; HBM4 ramp; AVGO packaging partnership; +70% YTD
-**Risks:** US-China export controls expansion risk; equipment cycles lag chip demand 6-12 months; small insider selling
-**Buy Zone:** $220-$240  |  **Target:** $310  |  **Stop:** $185
-**Hold while:** Hold as long as: TSMC/Samsung maintain N2/N3 expansion; HBM4 volume production scales; CoWoS packaging tool demand sustains; Coatue position unchanged or growing
-**Exit if:** EXIT if: TSMC announces Arizona/N2 slowdown >2 quarters OR US-China controls expanded to AMAT equipment in Korea/Taiwan OR revenue growth below 20% YoY for 2 quarters
-
-### #3 AMZN — Score 95.8 [HIGH]
+### #2 AMZN -- Score 89.7 [HIGH]
 *Amazon.com Inc. | Cloud | Pricing: STRONG_POSITION | Smart Money: SMART_MONEY_ACCUMULATING*
 
-AWS is growing at the fastest rate in 15 quarters and the $200B capex commitment is AMZN building the AI cloud that competitors cannot match for a decade. Trainium silicon reduces AVGO/NVDA dependency. Nuclear PPAs ensure power security. Forward P/E 38x is not cheap but AWS growth justifies it. Core position.
+AMZN combines the best of AI hardware (Trainium custom silicon) with highest-growth cloud platform (AWS +28% Q1). Government cloud wins ($11.6B combined) add durable revenue visibility, and Evercore designating it the #1 large-cap pick for 2026 reflects genuine conviction. At 23% off its high with consensus target of $312 (45% upside), this is the most attractively priced mega-cap AI infrastructure play.
 
-**Catalysts:** AWS highest growth in 15 quarters; $200B capex 2026; Trainium AI silicon; nuclear PPAs; advertising AI monetization
-**Risks:** $200B capex = FCF consumed; antitrust risk; if AWS decelerates, multiple compression is severe
-**Buy Zone:** $220-$238  |  **Target:** $310  |  **Stop:** $190
-**Hold while:** Hold as long as: AWS grows >25% YoY; AI/cloud capex maintained; Bedrock enterprise adoption; operating margins expand toward 12%
-**Exit if:** EXIT if: AWS loses market share to Azure on 2 consecutive prints OR AI capex ROI questioned OR antitrust forces AWS separation OR retail/advertising recession cuts 40%+ of AMZN earnings
+**Catalysts:** AWS Project Rainier Trainium3 ($14B capacity); DHS $2.6B + JWCC $9B; Q1 AWS +28% confirms acceleration
+**Risks:** 23% off 52-week high; tariff impact on retail; AWS competition from Azure; antitrust risk
+**Buy Zone:** $205-$220  |  **Target:** $295  |  **Stop:** $188
+**Hold while:** Hold as long as: AWS growth >25% YoY; Trainium ramp on schedule; government cloud contracts intact; operating margin expanding YoY.
+**Exit if:** EXIT if: AWS growth below 20%; Trainium3 material delays; regulatory action on AWS dominance; retail margin compression resumes.
 
-### #4 META — Score 94.1 [HIGH]
-*Meta Platforms Inc. | Cloud | Pricing: PRICING_LEADER | Smart Money: SMART_MONEY_ACCUMULATING*
+### #3 ORCL -- Score 89.5 [HIGH]
+*Oracle Corporation | Cloud | Pricing: STRONG_POSITION | Smart Money: SMART_MONEY_ACCUMULATING*
 
-META is the best risk/reward in CORE_STOCKS at forward P/E 30x and PEG 1.4x with revenue growing 33%. Zuckerberg made a $145B bet that AI advertising will compound — every Q1 metric says he is right. At $862 analyst PT from ~$680, 27% upside for a company growing 33% revenue. This is undervalued. HIGHEST conviction non-semiconductor in the list.
+ORCL is one of the most compelling risk/reward setups in the AI infrastructure basket: Stargate partnership transforms it from legacy database to hyperscale AI cloud provider. OCI +44% YoY, $523B backlog, Abilene 1.2GW live, 46% off high at 22x forward PE with PEG 0.95. Oppenheimer upgrade to $185 is just the beginning -- consensus will move toward $230-260 as Stargate revenue converts. Strong conviction BUY.
 
-**Catalysts:** Q1 revenue +33%; $145B capex AI infrastructure; Meta AI platform; MTIA custom silicon; Llama leadership; PT $862
-**Risks:** Market flinched at $145B capex; ROI timeline uncertainty; EU regulatory risk; AI monetization must accelerate to justify capex
-**Buy Zone:** $640-$685  |  **Target:** $862  |  **Stop:** $540
-**Hold while:** Hold as long as: DAU grows above 5% YoY; AI advertising ARPU expansion continues; Llama ecosystem retains developer mindshare; $145B capex generates visible AI ROI
-**Exit if:** EXIT if: EU bans Meta AI data processing OR advertising revenue below 20% YoY for 2 quarters OR regulatory forced divestiture of Instagram/WhatsApp OR competitor takes >5% total digital ad revenue
+**Catalysts:** Stargate 1.2GW Abilene live; $523B backlog; OCI +44% YoY; govt cloud (CIA C2E, JWCC)
+**Risks:** 46% off 52-week high; $50B/yr capex overhang; Stargate execution risk; database alternatives
+**Buy Zone:** $175-$190  |  **Target:** $260  |  **Stop:** $158
+**Hold while:** Hold as long as: OCI revenue growth >40% YoY; Stargate backlog converting; $50B capex on schedule; database + cloud cross-sell intact.
+**Exit if:** EXIT if: OpenAI/SoftBank renegotiate Stargate; OCI growth below 25%; AWS/Azure takes back government wins; FY2027 revenue guide disappoints.
 
-### #5 MRVL — Score 92.2 [HIGH]
-*Marvell Technology Inc. | Chips | Pricing: STRONG_POSITION | Smart Money: SMART_MONEY_ACCUMULATING*
+### #4 TSM -- Score 87.7 [HIGH]
+*Taiwan Semiconductor Manufacturing Co. | Foundry | Pricing: PRICING_LEADER | Smart Money: SMART_MONEY_ACCUMULATING*
 
-Jensen Huang called Marvell the next trillion-dollar company. When the CEO of NVIDIA — your largest customer — makes that proclamation publicly, you treat it as a supply chain intelligence signal, not marketing. MRVL ASICs are the inference complement to NVDA training GPUs. Data center is 76% of revenue. The +258% YTD run means the easy trade is behind you, but ASIC design cycles are measured in years — this is still in the first third of the earnings revision cycle. HIGH conviction.
+TSM is the most critical chokepoint in the AI semiconductor supply chain -- the only foundry capable of N3/N2/CoWoS at scale. PEG 0.72 is genuinely cheap for a company growing 30%+ with expanding margins. Earnings in 28 days is a near-term catalyst with upside bias. Highest conviction LONG in the AI infrastructure basket. Taiwan risk acknowledged but manageable at current MEDIUM tension level.
 
-**Catalysts:** ASIC inference wave; Jensen Huang endorsement at Computex 2026; data center 76% revenue; Q1 FY2027 beat ($0.80 vs $0.75); PT $217 with momentum
-**Risks:** At +258% YTD, easy money made; CEO selling; AVGO is larger more diversified ASIC play; expensive P/E 48x if cycle slows
-**Buy Zone:** $180-$200  |  **Target:** $280  |  **Stop:** $148
-**Hold while:** Hold as long as: Data center >70% of total revenue; ASIC design wins with 2+ hyperscalers confirmed; gross margins expand toward 60%; inference outpaces GPU economics
-**Exit if:** EXIT if: Hyperscaler cancels ASIC program citing NVDA NIM superiority OR data center share drops below 60% for 2 quarters OR forward P/E expands above 70x on flat earnings
+**Catalysts:** Q2 earnings July 17; CoWoS ramp to 130K wpm; N2 5-fab ramp; Arizona Fab2 tool install Q3
+**Risks:** Taiwan geopolitical risk; US tariff uncertainty; Arizona cost overruns
+**Buy Zone:** $415-$432  |  **Target:** $510  |  **Stop:** $390
+**Hold while:** Hold as long as: Q2 rev guidance at/above $39B midpoint; CoWoS ramp on schedule; Taiwan Strait stays MEDIUM risk; N2 yield above 65%.
+**Exit if:** EXIT if: Cross-strait escalation to HIGH RISK; Q2 gross margin below 64%; NVDA diversifies to Samsung >15% share; Arizona cost overruns >30%.
+
+### #5 CRDO -- Score 85.8 [HIGH]
+*Credo Technology Group | Optical & Networking | Pricing: STRONG_POSITION | Smart Money: SMART_MONEY_ACCUMULATING*
+
+CRDO is a small-cap AI connectivity specialist with genuine competitive advantage in high-speed SerDes for 800G/1.6T AI clusters. Insider buying, strong call sweeps, and Coatue/Tiger Global accumulation are high-conviction signals. Revenue growth >60% YoY at PEG 0.90 makes this one of the best-valued growth names. High risk/high reward; size appropriately for small-cap liquidity.
+
+**Catalysts:** SerDes/AEC 800G/1.6T ramp; hyperscaler design wins; insider buying; call sweep activity
+**Risks:** 28% off ATH; 8% short interest; customer concentration; small-cap liquidity
+**Buy Zone:** $62-$70  |  **Target:** $105  |  **Stop:** $52
+**Hold while:** Hold as long as: SerDes/AEC design wins at hyperscalers growing; revenue >60% YoY; gross margin >60%; 800G/1.6T ramp on track.
+**Exit if:** EXIT if: Marvell/Broadcom wins hyperscaler SerDes sockets; revenue growth below 40%; design-win pipeline shrinks; short interest rises sharply.
 
 ---
 
 ## Sector Rotation & Smart Money
-**Today Rotation:** AI_HARDWARE_LEADS; TRAINING_CHIPS -> CUSTOM_SILICON/INFERENCE
-**Favored:** NVDA, TSM, AVGO, ANET, MRVL, VRT, META, AMZN, ORCL, VST, CEG, CRDO, AMAT, ASML, GEV, PWR, COHR
-**Disfavored:** MSFT, CRM, SNOW, DDOG, INTC
-**Rationale:** SOXX +90% YTD, $4B 1-month inflows — AI hardware maintains institutional leadership. IGV -2.21% June 16 on AI seat compression disrupting SaaS. Within hardware: training chips → custom silicon/ASICs/networking (AVGO, MRVL, CRDO). Power/energy (VST, CEG, GEV) rotating in as the AI power scarcity trade.
 
-**13F Smart Money Highlights:**
-- **TSM**: Coatue added TSM +6.9% Q1 2026. Director open-market buy confirms institutional conviction. CHIPS Act $6.6B confirmed.
-- **AMAT**: Coatue +79% in Q1 2026 — largest Coatue position increase this quarter. Clearest smart money rotation: from finished chips (NVDA trim) to equipment (AMAT/ASML). Smart money sees supply chain logic.
-- **AMZN**: Coatue top holding Q1 2026. AWS cloud reacceleration driving institutional accumulation.
-- **META**: Meta identified as best Q1 2026 report among hyperscalers. Revenue +33% with $145B capex = conviction buying.
-- **MRVL**: +258% YTD signals consistent institutional buying. Jensen Huang endorsement = NVDA ecosystem validation of MRVL as complementary, not competitive.
-- **ASML**: Coatue new $655M position Q1 2026 — largest new Coatue bet this quarter. Rotating from NVDA (11th trim) into ASML (new position). Smart money sees more certainty in the tool maker vs the chip maker.
-- **ORCL**: Stargate infrastructure role making ORCL a consensus institutional overweight. Multiple upgrades $275-285 signals accumulation.
-- **AVGO**: Deutsche Bank premier holding. AMAT partnership on chip packaging. Multiple top funds increasing AVGO as ASIC inference solidifies.
-- **PLTR**: 4 new 13F positions Q1 2026. $8M bullish flow. JADC2 contract revenue visibility driving early institutional accumulation.
-- **CRDO**: Zacks highlighted CRDO alongside AVGO and AMAT as premier AI connectivity play. 17/0 ratio with fresh upgrades signals institutional consensus forming.
-- **VST**: Nuclear-AI power theme attracting institutional interest. VST is the value play in nuclear data center space — cheaper PEG than CEG.
-- **VRT**: Institutional consensus: VRT is the non-semiconductor AI infrastructure picks-and-shovels.
-- **CEG**: CEG identified by S&P Global as next nuclear-AI data center supply deal winner. Institutional consensus on nuclear renaissance.
-- **GEV**: GEV identified alongside VST/CEG as the AI energy infrastructure play. Power equipment scarcity is institutional consensus.
+**Rotation Today:** AI_HARDWARE & ENERGY -> SOFTWARE & CONSUMER
+**Favored:** NVDA, TSM, AVGO, MU, VST, CEG, ORCL, AMZN
+**Disfavored:** PLTR, META, MSFT
+**Rationale:** Institutional money continues rotating INTO AI hardware (semis, memory, energy) and energy infrastructure as the physical buildout phase dominates; software/platform names face capex concern headwinds and multiple compression from rising yields. Energy leads 2026 sector rankings.
 
-**Pricing Power (Leader/Strong):** TSM, AMAT, AMZN, META, MRVL, ASML, NVDA, ORCL, AVGO, PLTR, CRDO, VST, VRT, CEG, GEV, MU, COHR, MSFT, ARM
+**13F Smart Money Accumulating:**
+- NVDA: Coatue, Viking Global added Q1 2026; Stargate consortium ($30B NVDA investment) confirms hyperscaler lock-in.
+- AMZN: Stargate $50B Amazon investment participation; Evercore top pick; multiple growth funds adding on AWS acceleration.
+- ORCL: Stargate consortium backing ($300B deal with OpenAI); multiple fund additions Q1 2026 on AI cloud infra thesis.
+- TSM: Net $304M institutional inflow Q1 2026; Ken Fisher, Frank Sands, First Eagle all large holders.
+- CRDO: Coatue and Tiger Global added positions; small-cap AI connectivity with explosive growth rate.
+- MU: Net institutional buying ahead of earnings; HBM supercycle thesis; fully booked HBM through 2026.
+- AVGO: Multiple long-only funds added Q1 2026; custom ASIC thesis (+44.6% CAGR) driving institutional conviction.
+- MSFT: Bill Ackman Pershing Square $2.09B (15% of fund) Q1 2026; John Stanton board member buy $397.35 Feb 2026 -- largest in decade.
+- ANET: Broad institutional accumulation in AI networking; consensus Strong Buy with $188 avg PT reflecting conviction.
+- COHR: NVIDIA optical partnership driving institutional interest; multiple fund additions on CPO/photonics AI thesis.
+- GEV: XLE + XLI institutional rotation beneficiary; grid equipment order book driving institutional accumulation.
+- DELL: Institutional accumulation on AI server beat (+67% YTD); Barclays upgrade; FY27 $50B AI server target.
+- MRVL: Institutional accumulation on custom silicon + co-packaged optics thesis; 45% off ATH creates attractive entry.
+- ETN: XLI sector rotation beneficiary; institutional accumulation in industrial/power names as AI data center power demand explodes.
+
+**Pricing Power (Leader/Strong):** NVDA, AMZN, ORCL, TSM, CRDO, MU, AVGO, MSFT, ANET, COHR, GEV, VST, CEG, MRVL, PLTR, META, ETN, NOW, VRT, EQIX
 
 **Insider Activity Highlights:**
-- **TSM BULLISH**: Director Ursula Burns bought 1,000 ADS at $322.05 open-market March 31, 2026 (~$322K). CEO C.C. Wei bought 160 shares ESPP May 8. Director open-market buy at support is a meaningful signal.
-- **NVDA WARNING**: Jensen Huang sold $2.9B, aggregate $3.3B; zero insider purchases; director Mark Stevens $221M June 6. UNANIMOUS selling.
+- CRDO: Director and executive purchases Q1 2026; directional buy signal in AI connectivity specialist.
+- MSFT: Board member John W. Stanton purchased 5,000 shares at $397.35 on Feb 18, 2026 -- largest insider buy at MSFT in over a decade. Bill Ackman Pershing Square added ~5.65M shares ($2.09B) Q1 2026.
+
+---
+
+## Government Catalysts
+
+- **ORCL** | Stargate/Cloud | $50B capex 2026 | Status: CONFIRMED | Priced-In: PARTIAL | Upside: HIGH | Risk: Execution/capex overhang
+- **PLTR** | DoD Maven AI expansion | $480M prototype contract | Status: CONFIRMED | Priced-In: PARTIAL | Upside: HIGH | Risk: Contract renewal risk
+- **MSFT** | Pentagon AI deal + C2E CIA cloud | Multi-$B | Status: CONFIRMED | Priced-In: YES | Upside: MEDIUM | Risk: Competition from AWS/Google
+- **AMZN** | DHS Cumulus $2.6B + JWCC $9B | $11.6B | Status: CONFIRMED | Priced-In: PARTIAL | Upside: MEDIUM | Risk: Protest/rebid
+- **NVDA** | Pentagon AI deal participant | Undisclosed | Status: CONFIRMED | Priced-In: YES | Upside: LOW | Risk: Export controls
+- **VST** | DOE nuclear data center PPA | 2,609 MW Meta PPA | Status: CONFIRMED | Priced-In: PARTIAL | Upside: HIGH | Risk: PJM capacity market volatility
+- **CEG** | Nuclear data center PPAs | MSFT 1,920MW + others | Status: CONFIRMED | Priced-In: PARTIAL | Upside: HIGH | Risk: Calpine integration execution
 
 ---
 
 ## All Candidates
 
-| Rank | Symbol | Score | Conv | Insider | Pricing | Buy Zone | Target | Stop |
-|------|--------|-------|------|---------|---------|----------|--------|------|
-| #1 | TSM | 103.9 | HIGH | BULLISH | PRICING_LEADER | $305-$330 | $420 | $265 |
-| #2 | AMAT | 96.5 | HIGH | NEUTRAL | STRONG_POSITION | $220-$240 | $310 | $185 |
-| #3 | AMZN | 95.8 | HIGH | NEUTRAL | STRONG_POSITION | $220-$238 | $310 | $190 |
-| #4 | META | 94.1 | HIGH | NEUTRAL | PRICING_LEADER | $640-$685 | $862 | $540 |
-| #5 | MRVL | 92.2 | HIGH | NEUTRAL | STRONG_POSITION | $180-$200 | $280 | $148 |
-| #6 | ASML | 91.5 | HIGH | NEUTRAL | PRICING_LEADER | $960-$1,030 | $1,400 | $790 |
-| #7 | NVDA | 91.2 | HIGH | BEARISH_INSIDER | PRICING_LEADER | $195-$215 | $260 | $168 |
-| #8 | ORCL | 90.0 | HIGH | NEUTRAL | STRONG_POSITION | $210-$230 | $285 | $178 |
-| #9 | AVGO | 88.4 | HIGH | BEARISH | STRONG_POSITION | $265-$290 | $580 | $230 |
-| #10 | PLTR | 86.3 | HIGH | NEUTRAL | STRONG_POSITION | $120-$138 | $180 | $98 |
-| #11 | CRDO | 85.9 | HIGH | NEUTRAL | STRONG_POSITION | $170-$195 | $256 | $138 |
-| #12 | VST | 85.5 | HIGH | NEUTRAL | STRONG_POSITION | $140-$160 | $233 | $118 |
-| #13 | VRT | 85.2 | HIGH | NEUTRAL | STRONG_POSITION | $320-$350 | $420 | $275 |
-| #14 | CEG | 85.1 | HIGH | NEUTRAL | STRONG_POSITION | $270-$300 | $380 | $230 |
-| #15 | GEV | 85.0 | HIGH | NEUTRAL | STRONG_POSITION | $350-$380 | $480 | $290 |
-| #16 | MU | 81.3 | HIGH | BEARISH | STRONG_POSITION | $480-$530 | $700 | $410 |
-| #17 | COHR | 80.9 | HIGH | NEUTRAL | STRONG_POSITION | $65-$75 | $110 | $52 |
-| #18 | MSFT | 78.1 | HIGH | NEUTRAL | STRONG_POSITION | $450-$470 | $590 | $375 |
-| #19 | ARM | 75.2 | HIGH | NEUTRAL | STRONG_POSITION | $175-$200 | $250 | $148 |
-| #20 | AMD | 71.8 | MEDIUM | NEUTRAL | COMPETITIVE | $125-$145 | $185 | $108 |
-| #21 | PWR | 71.7 | MEDIUM | NEUTRAL | COMPETITIVE | $330-$360 | $430 | $275 |
+| Rank | Symbol | Score | Conviction | Close | PEG | Buy Zone | Target | Stop | Insider | Rotation |
+|------|--------|-------|------------|-------|-----|----------|--------|------|---------|----------|
+| #1 | NVDA | 91.2 | HIGH | $210 | 0.85 | $195-$210 | $265 | $185 | BEARISH | FAVORED |
+| #2 | AMZN | 89.7 | HIGH | $215 | 1.15 | $205-$220 | $295 | $188 | NEUTRAL | FAVORED |
+| #3 | ORCL | 89.5 | HIGH | $185 | 0.95 | $175-$190 | $260 | $158 | NEUTRAL | FAVORED |
+| #4 | TSM | 87.7 | HIGH | $432 | 0.72 | $415-$432 | $510 | $390 | NEUTRAL | FAVORED |
+| #5 | CRDO | 85.8 | HIGH | $68 | 0.90 | $62-$70 | $105 | $52 | BULLISH | NEUTRAL |
+| #6 | MU | 85.4 | HIGH | $148 | 0.30 | $138-$152 | $200 | $125 | BEARISH | FAVORED |
+| #7 | AVGO | 84.6 | HIGH | $393 | 0.78 | $375-$395 | $520 | $355 | NEUTRAL | FAVORED |
+| #8 | MSFT | 82.9 | HIGH | $379 | 1.45 | $360-$385 | $490 | $335 | BULLISH | DISFAVORED |
+| #9 | ANET | 80.2 | HIGH | $168 | 1.40 | $160-$170 | $210 | $148 | BEARISH | NEUTRAL |
+| #10 | COHR | 80.2 | HIGH | $92 | 0.75 | $85-$95 | $150 | $72 | NEUTRAL | NEUTRAL |
+| #11 | GEV | 78.5 | HIGH | $385 | 1.50 | $365-$390 | $490 | $335 | NEUTRAL | NEUTRAL |
+| #12 | DELL | 78.2 | HIGH | $120 | 0.55 | $108-$122 | $165 | $95 | NEUTRAL | NEUTRAL |
+| #13 | VST | 77.3 | HIGH | $82 | 0.65 | $75-$85 | $130 | $65 | NEUTRAL | FAVORED |
+| #14 | CEG | 76.9 | HIGH | $195 | 0.58 | $185-$200 | $275 | $165 | NEUTRAL | FAVORED |
+| #15 | MRVL | 76.8 | HIGH | $68 | 0.70 | $62-$70 | $115 | $52 | NEUTRAL | NEUTRAL |
+| #16 | PLTR | 76.7 | HIGH | $131 | 2.80 | $118-$132 | $185 | $105 | NEUTRAL | DISFAVORED |
+| #17 | META | 76.2 | HIGH | $580 | 0.85 | $555-$585 | $780 | $510 | NEUTRAL | DISFAVORED |
+| #18 | ETN | 72.4 | MEDIUM | $330 | 1.40 | $315-$335 | $420 | $290 | NEUTRAL | NEUTRAL |
+| #19 | NOW | 70.1 | MEDIUM | $890 | 1.70 | $855-$895 | $1150 | $785 | NEUTRAL | NEUTRAL |
+| #20 | VRT | 68.1 | MEDIUM | $110 | 1.10 | $100-$112 | $150 | $92 | BEARISH | NEUTRAL |
+| #21 | EQIX | 61.2 | MEDIUM | $850 | 2.10 | $820-$860 | $1050 | $760 | NEUTRAL | NEUTRAL |
+| #22 | AMD | 57.3 | MEDIUM | $115 | 0.65 | $105-$118 | $165 | $92 | NEUTRAL | NEUTRAL |
 
 ---
 
-## Taiwan Intelligence
+## Taiwan & Geopolitical Risk
 
-- CoWoS SOLD OUT through 2026; NVDA holds 60% of allocation. Advanced packaging is the structural bottleneck.
-- Cross-strait risk MEDIUM: PLA drills intensifying (100+ aircraft Dec 2025, median-line erased). US DNI: no invasion before 2027 but coercive pressure accelerating.
-- Vera Rubin: 150 Taiwan supply chain partners — Foxconn, Quanta, Wistron, ASUS, Gigabyte. Taiwan ecosystem is critical path for autumn 2026 shipments.
-- TSMC Arizona Phase 2 (Q3 2026 equip install) reduces cross-strait binary risk. 30% of N2 output targeted for US production.
+**Cross-Strait Risk Level:** MEDIUM
 
-## Government Catalysts
-
-| Company | Type | Amount | Status | Priced In |
-|---------|------|--------|--------|-----------|
-| TSMC | CHIPS Act | $6.6B | CONFIRMED | PARTIAL |
-| MU | CHIPS Act | $6.1B | CONFIRMED | PARTIAL |
-| ORCL | Stargate Infrastructure | $400B+ program | CONFIRMED | PARTIAL |
-| PLTR | DoD AI + JADC2 | Part of $1.8T Pentagon AI | CONFIRMED | PARTIAL |
-| CEG | DOE Loan + Microsoft PPA | $1B DOE + 20yr PPA | CONFIRMED | PARTIAL |
+- Taiwan Strait tension rated #1 geopolitical risk by Beijing think tanks for 2026; PLA gray-zone ops intensifying.
+- TSMC Arizona acceleration: Fab2 3nm tool install Q3 2026, mass production 2027; US supply chain insurance building.
+- N2 ramp in Taiwan: 5 fab phases in first node year; CoWoS capacity to 130K wpm by end 2026.
+- NVIDIA secures 60% of TSMC CoWoS allocation through 2027 for GB300/Rubin.
+- Taiwan-US semiconductor deal signaled via Section 232 measures and BIS rule in Feb 2026 — positive bilateral alignment.
